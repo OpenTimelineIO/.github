@@ -22,7 +22,7 @@ maintainance and support.
 
 ## ADAPTER REPO NOTICE
 
-The OpenTimelineIO is currently working through a
+The OpenTimelineIO community is currently working through a
 [reorganization of the adapters](https://github.com/AcademySoftwareFoundation/OpenTimelineIO/issues/1386)
 and is working through breaking them out. For the moment, users should continue
 to use adapters that come with the
