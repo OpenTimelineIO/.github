@@ -10,7 +10,7 @@ Repositories stored in this organization include adapters, examples, and more.
 ## Support
 
 These subprojects are part of the OpenTimelineIO project but may be supported
-differently than the oOpenTimelineIO core.
+differently than the OpenTimelineIO core.
 
 This may include:
 
