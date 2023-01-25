@@ -1,6 +1,10 @@
 # OpenTimelineIO
-[![OpenTimelineIO](images/OpenTimelineIO@3xDark.png#gh-light-mode-only)](http://opentimeline.io)
-[![OpenTimelineIO](images/OpenTimelineIO@3xLight.png#gh-dark-mode-only)](http://opentimeline.io)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/OpenTimelineIO@3xLight.png">
+  <source media="(prefers-color-scheme: light)" srcset="./images/OpenTimelineIO@3xDark.png">
+  <img alt="OpenTimelineIO Logo" src="./images/OpenTimelineIO@3xDark.png">
+</picture>
 
 OpenTimelineIO is an interchange format and API for editorial cut information.
 OTIO contains information about the order and length of cuts and references to
