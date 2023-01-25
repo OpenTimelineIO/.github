@@ -1,5 +1,6 @@
 # OpenTimelineIO
-[![OpenTimelineIO](images/OpenTimelineIO@3xDark.png)](http://opentimeline.io)
+[![OpenTimelineIO](images/OpenTimelineIO@3xDark.png#gh-light-mode-only)](http://opentimeline.io)
+[![OpenTimelineIO](images/OpenTimelineIO@3xLight.png#gh-dark-mode-only)](http://opentimeline.io)
 
 The OpenTimelineIO github organization is a federation of repos relating to the
 [OpenTimelineIO core](https://github.com/AcademySoftwareFoundation/OpenTimelineIO)
