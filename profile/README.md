@@ -2,11 +2,13 @@
 [![OpenTimelineIO](images/OpenTimelineIO@3xDark.png#gh-light-mode-only)](http://opentimeline.io)
 [![OpenTimelineIO](images/OpenTimelineIO@3xLight.png#gh-dark-mode-only)](http://opentimeline.io)
 
-The OpenTimelineIO github organization is a federation of repos relating to the
+The OpenTimelineIO github organization is a federation of repos relating to the 
 [OpenTimelineIO core](https://github.com/AcademySoftwareFoundation/OpenTimelineIO)
 project.
 
-Repositories stored in this organization include adapters, examples, and more.
+Repositories stored in this organization include adapters, language bindings
+(except python, which is [part of the core](https://github.com/AcademySoftwareFoundation/OpenTimelineIO/tree/main/src/py-opentimelineio)),
+examples, and more.
 
 ## Support
 
