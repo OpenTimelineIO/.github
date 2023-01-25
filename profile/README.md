@@ -2,6 +2,10 @@
 [![OpenTimelineIO](images/OpenTimelineIO@3xDark.png#gh-light-mode-only)](http://opentimeline.io)
 [![OpenTimelineIO](images/OpenTimelineIO@3xLight.png#gh-dark-mode-only)](http://opentimeline.io)
 
+OpenTimelineIO is an interchange format and API for editorial cut information.
+OTIO contains information about the order and length of cuts and references to
+external media. It is not however, a container format for media.
+
 The OpenTimelineIO github organization is a federation of repos relating to the 
 [OpenTimelineIO core](https://github.com/AcademySoftwareFoundation/OpenTimelineIO)
 project.
