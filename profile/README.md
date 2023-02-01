@@ -1,8 +1,8 @@
 # OpenTimelineIO
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/OpenTimelineIO@3xLight.png">
-  <source media="(prefers-color-scheme: light)" srcset="./images/OpenTimelineIO@3xDark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="images/OpenTimelineIO@3xLight.png">
+  <source media="(prefers-color-scheme: light)" srcset="images/OpenTimelineIO@3xDark.png">
   <img alt="OpenTimelineIO Logo" src="./images/OpenTimelineIO@3xDark.png">
 </picture>
 
