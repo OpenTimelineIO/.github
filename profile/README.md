@@ -31,20 +31,12 @@ This may include:
 Please consult READMEs in individual subproject repos to learn more about their
 maintainance and support.
 
-## ADAPTER REPO NOTICE
-
-The OpenTimelineIO community is currently working through a
-[reorganization of the adapters](https://github.com/AcademySoftwareFoundation/OpenTimelineIO/issues/1386)
-and is working through breaking them out. For the moment, users should continue
-to use adapters that come with the
-[PyPI opentimelineio package](https://pypi.org/project/OpenTimelineIO/).
-
-
 Links
 -----
 
 * Main web site: http://opentimeline.io/
 * Documentation: https://opentimelineio.readthedocs.io/
+* Wiki (more documentation): https://github.com/AcademySoftwareFoundation/OpenTimelineIO/wiki
 * Main Project GitHub: https://github.com/AcademySoftwareFoundation/OpenTimelineIO
 * [Discussion group](https://lists.aswf.io/g/otio-discussion)
 * [Slack channel](https://academysoftwarefdn.slack.com/messages/CMQ9J4BQC)
